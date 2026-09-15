@@ -35,9 +35,7 @@ The goal of this course is to build a strong foundation in cybersecurity, identi
 ## Progress
 
 - [x] Part 1: Security, Compliance and Identity Concepts
-- [ ] Part 2: Microsoft Entra
-- [ ] Part 3: Microsoft Security Solutions
-- [ ] Part 4: Microsoft Purview and Privacy
+
 
 ## Related Skills
 
