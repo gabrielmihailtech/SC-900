@@ -18,9 +18,6 @@ The goal of this course is to build a strong foundation in cybersecurity, identi
 - Microsoft Entra ID
 - Authentication and Authorization
 - Multi-Factor Authentication (MFA)
-- Microsoft Defender
-- Microsoft Sentinel
-- Microsoft Purview
 - Compliance and Privacy Concepts
 
 ## Learning Objectives
